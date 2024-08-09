@@ -7,12 +7,18 @@ toc_max_heading_level: 2
 
 ## 最近更新
 
+### 🚀 新功能
+
+- Feature: 添加遗漏的类型标注 [@yanyongyu](https://github.com/yanyongyu) ([#2856](https://github.com/nonebot/nonebot2/pull/2856))
+
 ### 🐛 Bug 修复
 
 - Fix: 错误的类型标注和 annotated 处理 [@yanyongyu](https://github.com/yanyongyu) ([#2828](https://github.com/nonebot/nonebot2/pull/2828))
 
 ### 💫 杂项
 
+- Plugin: 修改插件 system-command 信息 [@tkgs0](https://github.com/tkgs0) ([#2862](https://github.com/nonebot/nonebot2/pull/2862))
+- Plugin: 修改 nonebot-plugin-fishing 插件作者 [@ALittleBot](https://github.com/ALittleBot) ([#2854](https://github.com/nonebot/nonebot2/pull/2854))
 - Bot: 更新 Minecraft QQBot 信息 [@Lonely-Sails](https://github.com/Lonely-Sails) ([#2838](https://github.com/nonebot/nonebot2/pull/2838))
 - Plugin: 移除 kanonbot 插件 [@SuperGuGuGu](https://github.com/SuperGuGuGu) ([#2819](https://github.com/nonebot/nonebot2/pull/2819))
 - Plugin: 更新插件 sparkapi 信息 [@CCLMSY](https://github.com/CCLMSY) ([#2812](https://github.com/nonebot/nonebot2/pull/2812))
@@ -20,6 +26,10 @@ toc_max_heading_level: 2
 
 ### 🍻 插件发布
 
+- Plugin: 🦌管签到 [@noneflow](https://github.com/noneflow) ([#2859](https://github.com/nonebot/nonebot2/pull/2859))
+- Plugin: 漂流瓶 [@noneflow](https://github.com/noneflow) ([#2861](https://github.com/nonebot/nonebot2/pull/2861))
+- Plugin: 奇怪的小功能 [@noneflow](https://github.com/noneflow) ([#2851](https://github.com/nonebot/nonebot2/pull/2851))
+- Plugin: SunoAI音乐生成 [@noneflow](https://github.com/noneflow) ([#2853](https://github.com/nonebot/nonebot2/pull/2853))
 - Plugin: 谁是卷王 [@noneflow](https://github.com/noneflow) ([#2849](https://github.com/nonebot/nonebot2/pull/2849))
 - Plugin: GPT-SoVITS 语音合成 [@noneflow](https://github.com/noneflow) ([#2847](https://github.com/nonebot/nonebot2/pull/2847))
 - Plugin: 基于清影的AI视频生成 [@noneflow](https://github.com/noneflow) ([#2843](https://github.com/nonebot/nonebot2/pull/2843))

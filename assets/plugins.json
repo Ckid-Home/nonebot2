@@ -5569,7 +5569,7 @@
   {
     "module_name": "nonebot_plugin_fishing",
     "project_link": "nonebot-plugin-fishing",
-    "author": "C14H22O",
+    "author": "ALittleBot",
     "tags": [
       {
         "label": "钓鱼",
@@ -6537,7 +6537,16 @@
     "module_name": "nonebot_plugin_system_command",
     "project_link": "nonebot-plugin-system-command",
     "author": "tkgs0",
-    "tags": [],
+    "tags": [
+      {
+        "label": "shell",
+        "color": "#0078d4"
+      },
+      {
+        "label": "cmd",
+        "color": "#24292f"
+      }
+    ],
     "is_official": false
   },
   {
@@ -6578,6 +6587,52 @@
         "color": "#000000"
       }
     ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_sunoai",
+    "project_link": "nonebot-plugin-sunoai",
+    "author": "CCYellowStar2",
+    "tags": [
+      {
+        "label": "SunoAi",
+        "color": "#ea5252"
+      },
+      {
+        "label": "AI歌曲",
+        "color": "#ea5252"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_function",
+    "project_link": "nonebot-plugin-function",
+    "author": "zhongwen-4",
+    "tags": [],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_web_bottle",
+    "project_link": "nonebot-plugin-web-bottle",
+    "author": "luosheng520qaq",
+    "tags": [
+      {
+        "label": "漂流瓶",
+        "color": "#689dd0"
+      },
+      {
+        "label": "审核",
+        "color": "#e3567b"
+      }
+    ],
+    "is_official": false
+  },
+  {
+    "module_name": "nonebot_plugin_deer_pipe",
+    "project_link": "nonebot-plugin-deer-pipe",
+    "author": "SamuNatsu",
+    "tags": [],
     "is_official": false
   }
 ]
